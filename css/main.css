@@ -46,3 +46,7 @@ img {
 p {
   font-weight: normal;
 }
+
+dt {
+  font-weight: bold;
+}

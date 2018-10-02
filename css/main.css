@@ -6,12 +6,13 @@ html {
 h1, h2 {
   font-family: PT Sans, sans-serif;
   line-height: 1.5;
-  font-weight: 400normal;
+  font-weight: normal;
   color: #3f1622;
 }
 
 img {
   width: 100%;
+  background-position: center;
 }
 
 .quote {

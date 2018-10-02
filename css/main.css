@@ -15,16 +15,17 @@ img {
 }
 
 .quote {
-  font-family: PT Sans, sans-serif;
+  font-family: PT Serif;
   line-height: 1.5;
-  font-weight: normal;
+  font-style: italic;
+  font-size: larger;
   color: #222;
 }
 
 #links {
   font-family: PT Sans, sans-serif;
   line-height: 1.5;
-  font-weight: strong;
+  font-weight: bold;
   color: #8f2440;
 }
 

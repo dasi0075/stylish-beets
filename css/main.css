@@ -26,6 +26,7 @@ img {
   font-family: PT Sans, sans-serif;
   line-height: 1.5;
   font-weight: bold;
+  text-decoration: blink;
   color: #8f2440;
 }
 

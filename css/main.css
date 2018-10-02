@@ -1,12 +1,19 @@
 html {
   background-color: #c9b5ab;
+}
+
+h1 {
   font-family: PT Sans, serif;
   line-height: 1.5;
   text-size: 1.5rem;
 }
 
+}
+
 img {
   width: 100%;
 }
+
+
 
 font-family: 'PT Serif', serif;

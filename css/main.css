@@ -13,4 +13,9 @@ img {
   width: 100%;
 }
 
-font-family: 'PT Serif';
+.quote {
+  font-family: PT Italic, sans-serif;
+  line-height: 1.5;
+  text-size: 1.5rem;
+  color: #222;
+}

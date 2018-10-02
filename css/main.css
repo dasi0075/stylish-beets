@@ -4,7 +4,7 @@ html {
 }
 
 h1, h2 {
-  font-family: PT Sans, sans-serif;
+  font-family: 'PT Sans', sans-serif;
   line-height: 1.5;
   font-weight: bold;
   color: #3f1622;
@@ -16,7 +16,7 @@ img {
 }
 
 .quote {
-  font-family: PT Serif;
+  font-family: 'PT Serif';
   line-height: 1.5;
   font-style: italic;
   font-size: larger;
@@ -24,7 +24,7 @@ img {
 }
 
 #links {
-  font-family: PT Sans, sans-serif;
+  font-family: 'PT Sans', sans-serif;
   line-height: 1.5;
   font-weight: bold;
   text-decoration: blink;

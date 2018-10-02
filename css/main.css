@@ -19,3 +19,10 @@ img {
   text-size: 1.5rem;
   color: #222;
 }
+
+#links {
+  font-family: PT Sans, sans-serif;
+  line-height: 1.5;
+  text-size: 1.25rem;
+  color: #8f2440;
+}

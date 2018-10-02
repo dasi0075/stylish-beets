@@ -2,10 +2,11 @@ html {
   background-color: #c9b5ab;
 }
 
-h1 {
-  font-family: PT Sans, serif;
+h1, h2 {
+  font-family: PT Sans, sans-serif;
   line-height: 1.5;
   text-size: 1.5rem;
+  color: #8f2440;
 }
 
 img {

@@ -6,7 +6,7 @@ html {
 h1, h2 {
   font-family: PT Sans, sans-serif;
   line-height: 1.5;
-  font-weight: normal;
+  font-weight: bold;
   color: #3f1622;
 }
 
@@ -41,4 +41,8 @@ img {
 
 .varieties {
   list-style-type: lower-greek;
+}
+
+p {
+  font-weight: normal;
 }

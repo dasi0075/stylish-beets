@@ -51,5 +51,7 @@ dt {
   font-weight: bold;
 }
 
-nav a:hover {
+nav li a:hover {
   background-color: #c9b5ab;
+  text-decoration: none
+}

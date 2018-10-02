@@ -6,6 +6,7 @@ html {
 h1, h2 {
   font-family: PT Sans, sans-serif;
   line-height: 1.5;
+  font-weight:strong;
   color: #3f1622;
 }
 
@@ -16,16 +17,21 @@ img {
 .quote {
   font-family: PT Sans, sans-serif;
   line-height: 1.5;
-  font-weight: italic;
+  font-weight: normal;
   color: #222;
 }
 
 #links {
   font-family: PT Sans, sans-serif;
   line-height: 1.5;
+  font-weight: strong;
   color: #8f2440;
 }
 
 .wikipedia {
   color: #8f2440;
+}
+
+.first {
+  font-weight: bold;
 }

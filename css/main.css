@@ -37,3 +37,7 @@ img {
 .first {
   font-weight: bold;
 }
+
+.varieties {
+  list-style-type: lower-greek;
+}

@@ -1,5 +1,6 @@
 html {
   background-color: #c9b5ab;
+  border-color: #c9b5ab;
 }
 
 h1, h2 {
@@ -14,8 +15,9 @@ img {
 }
 
 .quote {
-  font-family: PT Italic, sans-serif;
+  font-family: PT Sans, sans-serif;
   line-height: 1.5;
+  font-weight: italic;
   text-size: 1.5rem;
   color: #222;
 }

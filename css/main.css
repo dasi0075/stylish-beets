@@ -51,7 +51,6 @@ dt {
   font-weight: bold;
 }
 
-nav li a:hover {
-  background-color: #c9b5ab;
-  text-decoration: none
+a:hover {
+  color: #8f2440;
 }

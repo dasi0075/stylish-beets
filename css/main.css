@@ -78,3 +78,7 @@ a:hover {
 h2 + p {
   font-style: italic;
 }
+
+ul li {
+  font-size: 0.8rem;
+}

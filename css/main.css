@@ -53,5 +53,9 @@ dt {
 
 a:hover {
   color: #8f2440;
-  text-decoration: line-through;
+  text-decoration: inherit;
+}
+
+#serving {
+  font-style: italic;
 }

@@ -11,9 +11,7 @@ h1, h2 {
 }
 
 img {
-  width: 680px;
-  float: inherit;
-  background-position: center;
+  width: 100%;
 }
 
 figcaption {
@@ -54,6 +52,7 @@ p {
 
 dt {
   font-weight: bold;
+  font-size: larger;
 }
 
 a:hover {

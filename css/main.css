@@ -82,3 +82,7 @@ h2 + p {
 ul li {
   font-size: .8rem;
 }
+
+ol li {
+  font-family: "PT Serif";
+}

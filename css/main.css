@@ -65,17 +65,7 @@ p {
   font-family: "PT Serif";
 }
 
-dt {
-  font-weight: bold;
-  font-size: 1rem;
-}
-
-a:hover {
-  color: #8f2440;
-  text-decoration: none;
-}
-
-h2 + p {
+.serving {
   font-style: italic;
 }
 
@@ -84,6 +74,14 @@ ul li {
   font-size: .8rem;
 }
 
-ol li {
+dt {
+  font-weight: bold;
+  font-size: 1rem;
+  ol li {
   font-family: "PT Serif";
+}
+
+a:hover {
+  color: #8f2440;
+  text-decoration: none;
 }

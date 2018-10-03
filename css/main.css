@@ -11,8 +11,13 @@ h1, h2 {
 }
 
 img {
-  width: 100%;
+  width: 90%;
+  float: inherit;
   background-position: center;
+}
+
+figcaption {
+  text-align: center;
 }
 
 .quote {
@@ -56,6 +61,6 @@ a:hover {
   text-decoration: inherit;
 }
 
-h2+p {
+h2 + p {
   font-style: italic;
 }

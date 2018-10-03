@@ -11,7 +11,9 @@ h1, h2 {
 }
 
 img {
-  width: 100%;
+  width: 80%;
+  float: inherit;
+  background-position: center;
 }
 
 figcaption {
@@ -23,6 +25,8 @@ figcaption {
   line-height: 1.5;
   font-style: italic;
   font-size: larger;
+  text-decoration: inherit;
+  text-align: center;
   color: #222;
 }
 
@@ -30,7 +34,7 @@ figcaption {
   font-family: "PT Sans", sans-serif;
   line-height: 1.5;
   font-weight: bold;
-  text-decoration: blink;
+  font-size: larger;
   color: #8f2440;
 }
 
@@ -57,7 +61,7 @@ dt {
 
 a:hover {
   color: #8f2440;
-  text-decoration: inherit;
+  text-decoration: none;
 }
 
 h2 + p {

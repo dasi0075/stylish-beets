@@ -24,12 +24,18 @@ figcaption {
 
 .quote {
   font-family: "PT Serif";
-  line-height: 1.5;
+  line-height: 1.5rem;
   font-style: italic;
   font-size: larger;
   text-decoration: inherit;
   text-align: left;
   color: #222;
+}
+
+cite {
+  font-family: "PT Serif";
+  line-height: 0.8rem;
+  font-style: italic;
 }
 
 #links {

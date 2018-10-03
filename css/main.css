@@ -89,7 +89,10 @@ ol li {
   font-family: "PT Serif";
 }
 
-a,
+a {
+  text-decoration: none;
+}
+
 a:hover {
   color: #8f2440;
   text-decoration: none;

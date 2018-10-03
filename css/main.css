@@ -34,7 +34,7 @@ figcaption {
 
 cite {
   font-family: "PT Serif";
-  line-height: 0.8rem;
+  line-height: .8rem;
   font-style: italic;
 }
 
@@ -93,3 +93,6 @@ a:hover {
   color: #8f2440;
   text-decoration: none;
 }
+
+footer {
+  font-family: "PT Serif";

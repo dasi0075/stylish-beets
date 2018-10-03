@@ -26,7 +26,7 @@ figcaption {
   font-style: italic;
   font-size: larger;
   text-decoration: inherit;
-  text-align: center;
+  text-align: left;
   color: #222;
 }
 
@@ -52,6 +52,15 @@ figcaption {
 
 p {
   font-weight: normal;
+  font-family: "PT Serif";
+}
+
+.second {
+  font-family: "PT Serif";
+}
+
+.third {
+  font-family: "PT Serif";
 }
 
 dt {
